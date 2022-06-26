@@ -1,0 +1,89 @@
+<!DOCTYPE hmtl>
+
+<html>
+    <head>
+        <link href="./stylesheet.css" rel="stylesheet" text="text/css">
+        <title>FreedomForDevelopers</title>
+    </head>
+    <body>
+        <header>
+            <h1 class="headline">FreedomForDevelopers</h1>
+            <img class="logo" src="./freedom_logo.png" height="100">
+            <nav>
+                <ul>
+                    <li><a href="#freedom">About Freedom</a></li>
+                    <li><a href="#softwareengineering">Software Engineering</a></li>
+                    <li><a href="#challenges">Challenges</a></li>
+                    <li><a href="#contact">Contact Me</a></li>
+                </ul>
+
+            </nav>
+        </header>
+        
+        <main>
+            <section id="intro">
+                <p> This page will show you why the occupation as a software engineer
+                    will allow you to enjoy more freedom than in most other domains. <br>
+                    Therefore we first are going to define freedom to align on what criteria 
+                    can be used to measure the level of freedom. Next we will move on to
+                    specify the reasons software engineering enables you to a higher degree of 
+                    freedom, including a comparison to other professions. Finally the challenges
+                    that this great thing called freedom brings with it are discussed.</p>
+            </section>
+
+            <section id="freedom">
+                <h3>What is Freedom?</h3>
+                <div class="cite">
+                    <p>"Freedom is the state of being free from restraint or from the power of another"</p>
+                    <p class="source">- GPT-3 (an artificial intelligence)</p>
+                </div>
+                <article>A person has the freedom to do things that will not, in theory or in practice, be prevented by other forces.
+                    Outside of the human realm, freedom generally does not have this political or psychological dimension. A rusty lock might 
+                    be oiled so that the key has the freedom to turn, undergrowth may be hacked away to give a newly planted sapling 
+                    freedom to grow, or a mathematician may study an equation having many degrees of freedom. In physics or engineering, 
+                    the mathematical concept may also be applied to a body or system constrained by a set of equations, whose degrees of 
+                    freedom describe the number of independent motions that are allowed to it.
+                </article>
+                <aside>Personally I stick with the mathematical definition and measure my personal freedom
+                    in the number of opportunities and endavors I can undertake to increase my personal happiness.
+                    If you want to learn about freedom from a socio-economic perspective I suggest 
+                    <a href="https://en.wikipedia.org/wiki/Capitalism_and_Freedom" target="_blank">Milton Fiedman's <em>Capitalism and Freedom</em></a>
+                </aside>
+
+            </section>
+
+            <section id="softwareengineering">
+                <h3>Software Engineering</h3>
+                <p>Software engineers enjoy freedom because they are able to work on a variety of projects, in a variety of industries and sectors. 
+                    They are also able to work from home, or from anywhere in the world, as long as they have a computer and an internet connection. </p>
+            </section>
+
+            <section id="challenges">
+                <h3>Challenges that come with Freedom</h3>
+                <p>While freedom is a great thing, it does pose some challenges. For example, it can be difficult to stay motivated when working from home, 
+                    or to stay focused on one project when there are so many other interesting things to work on.</p>
+            </section>
+        </main>
+
+        <footer>
+            <p class="italic"> <br> Intelectual Property Rights belong to MKJ</p>
+            <table id="contact">
+                <tr>
+                    <th colspan="2">Contact me if you wish to</th>
+                </tr>
+                <tr>
+                    <th>Phone:</th>
+                    <td>+1234 56789123</td>
+                </tr>
+                <tr>
+                    <th>Email:</th>
+                    <td>findoutyourself@mkj.com</td>
+                </tr>
+            </table>
+        
+        </footer>
+    </body>
+
+
+
+</html>
