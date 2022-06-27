@@ -8,7 +8,7 @@
     <body>
         <header>
             <h1 class="headline">FreedomForDevelopers</h1>
-            <img class="logo" src="./freedom_logo.png" height="100">
+            <img id="logo" src="./freedom_logo.png">
             <nav>
                 <ul>
                     <li><a href="#freedom">About Freedom</a></li>
@@ -46,40 +46,61 @@
                 </article>
                 <aside>Personally I stick with the mathematical definition and measure my personal freedom
                     in the number of opportunities and endavors I can undertake to increase my personal happiness.
-                    If you want to learn about freedom from a socio-economic perspective I suggest 
-                    <a href="https://en.wikipedia.org/wiki/Capitalism_and_Freedom" target="_blank">Milton Fiedman's <em>Capitalism and Freedom</em></a>
+                    If you want to learn about freedom from a socio-economic perspective I suggest Milton Fiedman's
+                    <a href="https://en.wikipedia.org/wiki/Capitalism_and_Freedom" target="_blank"><em>Capitalism and Freedom</em></a>
                 </aside>
 
             </section>
 
             <section id="softwareengineering">
                 <h3>Software Engineering</h3>
-                <p>Software engineers enjoy freedom because they are able to work on a variety of projects, in a variety of industries and sectors. 
-                    They are also able to work from home, or from anywhere in the world, as long as they have a computer and an internet connection. </p>
+                <article>Software engineers enjoy freedom in a simple sense because they are able to work on a variety of projects, and in a variety of industries and sectors. 
+                    They are also able to work from home, or from anywhere in the world, as long as they have a computer and an internet connection. 
+                    In a broader sense to me the fact that as a software engineer you are able to <em>create</em> products appears to be significant.
+                    In this act of creation you enjoy the freedom of self-fulfilment, according to <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">Maslow</a> 
+                    the highest need humans can accomplish to satisfy.  
+                </article>
+                    <div class="cite">
+                        <p>"Give me a lever long enough and a place to stand and I will move the earth."</p>
+                        <p class="source">- Aristotle</p>
+                    </div>
+                    <article>The point I want to stress here is the effect of leverage. Let's jump back 5 decades in time, where leverage
+                        from a business perspective required <em>permission</em>, in the sense that capital as well as employees have to be given to you
+                        in the first place.  In todays modern world we are blessed with two kinds of permissionless leverage that are <strong>code and media</strong>.
+                        The age of digitalization creates an audience for almost every product you can imagine no matter how narrow the niche is
+                    </article>
+                    <article>To sum up, software engineers enjoy the combination of being able to express your creativity in products and use the 
+                        using the internet as leverage to reach a global audience. It's been already proven how easy a small script of code can 
+                        change the world.
+                    </article>
             </section>
 
             <section id="challenges">
                 <h3>Challenges that come with Freedom</h3>
-                <p>While freedom is a great thing, it does pose some challenges. For example, it can be difficult to stay motivated when working from home, 
-                    or to stay focused on one project when there are so many other interesting things to work on.</p>
+                <article>While freedom is a great thing, it does pose some challenges. The existence of a plethora of options can be 
+                    overwhealming, for example it can be difficult to stay motivated when working from home, 
+                    or to stay focused on one project when there are so many other interesting things to work on.</article>
+                <article>From personal experience I can verify how difficult it can be to distinguish between all the things you <strong>can</strong>
+                    do and the things you really <strong>want</strong> to do.
+                </article>
             </section>
         </main>
 
         <footer>
-            <p class="italic"> <br> Intelectual Property Rights belong to MKJ</p>
             <table id="contact">
                 <tr>
                     <th colspan="2">Contact me if you wish to</th>
                 </tr>
                 <tr>
-                    <th>Phone:</th>
+                    <td>Phone:</td>
                     <td>+1234 56789123</td>
                 </tr>
                 <tr>
-                    <th>Email:</th>
+                    <td>Email:</td>
                     <td>findoutyourself@mkj.com</td>
                 </tr>
             </table>
+            <p class="italic"><br>Intelectual Property Rights belong to MKJ</p>
         
         </footer>
     </body>
