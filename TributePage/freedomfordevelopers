@@ -34,6 +34,7 @@
             <section id="freedom">
                 <h3>What is Freedom?</h3>
                 <div class="cite">
+                    <img src="./artificial_inteligence.jpeg">
                     <p>"Freedom is the state of being free from restraint or from the power of another"</p>
                     <p class="source">- GPT-3 (an artificial intelligence)</p>
                 </div>
@@ -61,8 +62,10 @@
                     the highest need humans can accomplish to satisfy.  
                 </article>
                     <div class="cite">
+                        <img src="./aristotle.webp">
                         <p>"Give me a lever long enough and a place to stand and I will move the earth."</p>
                         <p class="source">- Aristotle</p>
+                        
                     </div>
                     <article>The point I want to stress here is the effect of leverage. Let's jump back 5 decades in time, where leverage
                         from a business perspective required <em>permission</em>, in the sense that capital as well as employees have to be given to you
